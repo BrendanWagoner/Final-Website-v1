@@ -138,8 +138,11 @@ label{
 }
 @media all and (max-width: 700px) {
     body{
-        padding-top: 125px
-    };
+        padding-top: 125px;
+    }
+    header{
+        height: 25%;
+    }
     h1{
         font-size: 55px;
     }
