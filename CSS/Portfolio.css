@@ -166,6 +166,9 @@ img{
     li{
         font-size: 30px;
     }
+    header{
+        height: 25%;
+    }
     .Header img{
         width: 25%;
         height: 25%;
