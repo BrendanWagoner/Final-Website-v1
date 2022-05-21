@@ -163,6 +163,9 @@ li1{
         width: 100%;
         margin-left: 0px;
     }
+    header{
+        height: 25%;
+    }
     .ny img{
         width: 45%;
         justify-content: center;
