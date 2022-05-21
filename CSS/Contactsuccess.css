@@ -125,6 +125,9 @@ li{
         width: 25%;
         height: 25%;   
     }
+    header{
+        height:auto;
+    }
     h1{
         font-size: 50px;
     }
@@ -134,9 +137,6 @@ li{
 
 }
 @media all and (max-width: 480px){
-    header{
-        height: 17%;
-    }
     h1{
         font-size: 45px;
     }
